@@ -1,13 +1,8 @@
-## 0.0.1
-
-* TODO: Describe initial release.
-
----
-
-### ✅ **Step 6: Create `CHANGELOG.md`**
-```md
 # Changelog
 
-## 1.0.0
+## 0.0.3
 - Initial release with network speed and connection type monitoring.
 - Supports video quality estimation.
+
+## 0.0.4
+* Fixed issue tracker URL
